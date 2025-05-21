@@ -16,7 +16,7 @@ Are you ready to improve your ideas in code?! get connected! 💡
 <div align="center">
 
   <img src="./goose.gif" width="200px" />
-
+  <br>
   <div style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api?username=NetMalware&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetMalware&theme=radical&hide_border=false" />
