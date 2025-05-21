@@ -1,5 +1,5 @@
-# 💫About Me :
-✨ Welcome! Sou I'm NetMalware. Future Full-Stack Developer and System Analysis student.
+# 🦆☕ About Me :
+✨ Welcome! I'm NetMalware. Future Full-Stack Developer and System Analysis student.
 
 Actually, my focus is work in personal portfolio, where i can explore technologies like: Python, Html/Css/Javascript and some Databases like MySQL & MongoDB, for example.
 
