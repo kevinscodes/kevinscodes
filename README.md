@@ -22,7 +22,7 @@ Are you ready to improve your ideas in code?! get connected! 💡
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://devhumor.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NetMalware&icon=0&color=12)](https://visitcount.itsvg.in)
