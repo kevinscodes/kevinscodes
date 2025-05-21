@@ -25,9 +25,3 @@ Are you ready to improve your ideas in code?! get connected! 💡
 <p align="right" padding-left=20px;>
   — <strong>Linus Torvalds</strong>
 </p>
-
-### 😂Random Dev Meme
-
-
----
-[![](https://visitcount.itsvg.in/api?id=NetMalware&icon=0&color=12)](https://visitcount.itsvg.in)
