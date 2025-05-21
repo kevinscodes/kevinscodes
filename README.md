@@ -22,7 +22,7 @@ Are you ready to improve your ideas in code?! get connected! 💡
   <b><i>"Software is like sex: it’s better when it’s free."</i></b>
 </p>
 
-<p align="right">
+<p align="right" padding-left=20px;>
   — <strong>Linus Torvalds</strong>
 </p>
 
