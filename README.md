@@ -29,8 +29,7 @@ Are you ready to improve your ideas in code?! get connected! 💡
 
 ## 🏆GitHub Trophies
 <br></br>
-<div style="display: inline-block; vertical-align: top;"></div>
-![](https://github-trophies.vercel.app/?username=NetMalware&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=NetMalware&theme=radical&no-frame=false&no-bg=false&margin-w=1)
 <hr></hr>
 <p align="center">
   <b><i>"Software is like sex: it’s better when it’s free."</i></b>
