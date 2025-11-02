@@ -38,11 +38,11 @@ Are you ready to improve your ideas in code?! get connected! 💡
 <hr></hr>
 
 <p align="center">
-  <b><i>"Software is like sex: it’s better when it’s free."</i></b>
+  <b><i>"Everyone should know how to program a computer, because it teaches you how to think."</i></b>
 </p>
 
 <p align="right" padding-left=20px;>
-  — <strong>Linus Torvalds</strong>
+  — <strong>Steve Jobs</strong>
 </p>
 
 <picture>
