@@ -1,4 +1,4 @@
-![Banner](./profilebanner.png)
+![Banner](./banner.png)
 
 # 🦆☕ About Me :
 ✨ Welcome! I'm Kevin Moreira, known digitally as kevinscodes. Full-Stack Developer and System Analysis student.
